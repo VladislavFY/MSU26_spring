@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-int write_innto_array( f, int **array, int rows, int columns);
+int ** write_innto_array( f, int **array, int rows, int columns);
 
 
 int find_needed_string(int **array);
