@@ -1,5 +1,5 @@
-#include "prototypes1.h"
+int main_function(void);
 
-int main(void){
-    main_function();
+int main(void) {
+    return main_function();
 }
