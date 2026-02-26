@@ -1,5 +1,5 @@
-#include "prototypes1.h"
+#include "prorotypes1.h"
 
-int main(void){
-    main_function();
+int main(void) {
+    return main_function();
 }
